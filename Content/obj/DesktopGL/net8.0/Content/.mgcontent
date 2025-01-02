@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/BGI.jpg</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/BGiMAGE.jpg</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/BGM.wav</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/bulletTankFiring.wav</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/DefaultFont.spritefont</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/EnemyTank1.png</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/EnemyTank2.png</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/ExplosionAnimation01.png</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/FireingAnimation01.png</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/ImpactAnimation01.png</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/PlayerTank.png</File>
+    <File>C:/Users/viren/Desktop/Level 3/TANKBR/Content/Tankexplosion.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

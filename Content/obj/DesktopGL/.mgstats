@@ -1,0 +1,13 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/BGI.jpg","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/BGI.xnb","TextureProcessor","Texture2DContent",243557,2190485,0.2050909
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/BGiMAGE.jpg","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/BGiMAGE.xnb","TextureProcessor","Texture2DContent",276860,3002005,0.110868
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/BGM.wav","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/BGM.xnb","SoundEffectProcessor","SoundEffectContent",799566,799593,0.245484
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/bulletTankFiring.wav","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/bulletTankFiring.xnb","SoundEffectProcessor","SoundEffectContent",447054,447081,0.2146724
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/DefaultFont.spritefont","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/DefaultFont.xnb","FontDescriptionProcessor","SpriteFontContent",2007,70690,0.1407717
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/EnemyTank1.png","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/EnemyTank1.xnb","TextureProcessor","Texture2DContent",10513,47685,0.0086884
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/EnemyTank2.png","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/EnemyTank2.xnb","TextureProcessor","Texture2DContent",3080,13525,0.0062989
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/ExplosionAnimation01.png","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/ExplosionAnimation01.xnb","TextureProcessor","Texture2DContent",93057,984385,0.078989
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/FireingAnimation01.png","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/FireingAnimation01.xnb","TextureProcessor","Texture2DContent",52454,870861,0.0542283
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/ImpactAnimation01.png","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/ImpactAnimation01.xnb","TextureProcessor","Texture2DContent",45047,730045,0.045131
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/PlayerTank.png","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/PlayerTank.xnb","TextureProcessor","Texture2DContent",6029,48485,0.0058984
+"C:/Users/viren/Desktop/Level 3/TANKBR/Content/Tankexplosion.wav","C:/Users/viren/Desktop/Level 3/TANKBR/Content/bin/DesktopGL/Tankexplosion.xnb","SoundEffectProcessor","SoundEffectContent",695886,695913,0.1831187
